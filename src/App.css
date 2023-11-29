@@ -34,9 +34,23 @@
 }
 
 .card {
-  padding: 2em;
+  padding: 5em;
+  border: solid 1px;
+  margin-bottom: 32px;
+  background-color: black;
 }
 
 .read-the-docs {
   color: #888;
 }
+.input-card{
+  padding: 5em;
+  border: solid 1px;
+  margin-bottom: 32px;
+  background-color: black;
+}
+form input{
+  margin: 15px;
+  height: 30px;  
+}
+
